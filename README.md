@@ -1,1 +1,1 @@
-# getip
+- Few lines script that I use locally to get the IPs from a subdomains list.
